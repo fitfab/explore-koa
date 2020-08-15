@@ -1,0 +1,24 @@
+{
+  "name": "explore-koa",
+  "version": "1.0.0",
+  "description": "Understanding Koa and its middleware.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "test",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Koa",
+    "Nodejs",
+    "Javascript"
+  ],
+  "author": "Miguel Julio",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
